@@ -1,7 +1,7 @@
 import discord,time, datetime
 import asyncio
 from discord.ext import commands
-
+import os
 
 bot = commands.Bot(command_prefix="sv!")
 bot.remove_command("help")
