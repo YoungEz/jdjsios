@@ -1,4 +1,6 @@
-discord.py[voice]
-youtube_dl
-PyNaCl
+discord.py
+dnspython
+pymongo
+requests
 asyncio
+https://github.com/Nekos-life/nekos.py/archive/master.zip
