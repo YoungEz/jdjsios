@@ -3,4 +3,5 @@ dnspython
 pymongo
 requests
 asyncio
+random
 https://github.com/Nekos-life/nekos.py/archive/master.zip
